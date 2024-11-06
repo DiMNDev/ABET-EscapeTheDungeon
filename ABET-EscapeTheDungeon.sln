@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABET-EscapeTheDungeon.Library", "ABET-EscapeTheDungeon.Library\ABET-EscapeTheDungeon.Library.csproj", "{48F6E258-045B-4701-AEEC-ACE26EEAABCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABET-EscapeTheDungeon.Console", "ABET-EscapeTheDungeon.Console\ABET-EscapeTheDungeon.Console.csproj", "{A552F312-5051-48ED-B549-594EA82CFEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABET-EscapeTheDungeon.Blazor", "ABET-EscapeTheDungeon.Blazor\ABET-EscapeTheDungeon.Blazor.csproj", "{6A0D8FA2-5727-4F23-87BC-1CD3124BE30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABET-EscapeTheDungeon.Tests", "ABET-EscapeTheDungeon.Tests\ABET-EscapeTheDungeon.Tests.csproj", "{752D45B2-E9E8-4008-9E36-23E1506453E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F6E258-045B-4701-AEEC-ACE26EEAABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F6E258-045B-4701-AEEC-ACE26EEAABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F6E258-045B-4701-AEEC-ACE26EEAABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F6E258-045B-4701-AEEC-ACE26EEAABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A552F312-5051-48ED-B549-594EA82CFEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A552F312-5051-48ED-B549-594EA82CFEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A552F312-5051-48ED-B549-594EA82CFEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A552F312-5051-48ED-B549-594EA82CFEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0D8FA2-5727-4F23-87BC-1CD3124BE30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0D8FA2-5727-4F23-87BC-1CD3124BE30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0D8FA2-5727-4F23-87BC-1CD3124BE30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0D8FA2-5727-4F23-87BC-1CD3124BE30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752D45B2-E9E8-4008-9E36-23E1506453E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752D45B2-E9E8-4008-9E36-23E1506453E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752D45B2-E9E8-4008-9E36-23E1506453E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752D45B2-E9E8-4008-9E36-23E1506453E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
