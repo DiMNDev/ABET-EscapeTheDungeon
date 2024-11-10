@@ -118,7 +118,6 @@ public class Graph
 
 }
 
-
 public class Edge
 {
     public string Destination { get; set; }
